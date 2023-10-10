@@ -1,6 +1,6 @@
 # dhandle
 
-Fair Naming System for the Decentralized Web
+Because fair and portable web3 social handles matter!
 
 ## Motivation
 
