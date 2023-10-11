@@ -10,7 +10,7 @@ Because fair and portable web3 social handles matter!
 
 ## Model
 
-- What is a name? /[a-zA-Z0-9_-]{3,64}/
+- What is a name? /[a-zA-Z0-9_-]{3,32}/
 - Reserve it by staking ETH on the contract
 - We get a non-transferable NFT that represents our handle
 - Challenge? call bid() with at least 2x the current ETH stake or 2x the current bid
